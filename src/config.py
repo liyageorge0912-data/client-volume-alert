@@ -4,7 +4,7 @@ DB_NAME     = "client_volume_db"
 DB_USER     = "postgres"
 DB_PASSWORD = "postgres"
 
-GMAIL_ADDRESS      = "liyageorge0912@gmail.com"
-GMAIL_APP_PASSWORD = "cbyrhuyqtcxtlfcd"
+GMAIL_ADDRESS      = ""
+GMAIL_APP_PASSWORD = ""
 
 VOLUME_THRESHOLD = 50
